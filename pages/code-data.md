@@ -17,4 +17,5 @@ breadcrumb: true
    * SASIP: [https://github.com/sasip-climate](https://github.com/sasip-climate)
    * IMHOTEP: [https://github.com/imhotep-project](https://github.com/imhotep-project)
    * Datlas data challenges: [https://www.datlas.fr/datachallenges/](https://www.datlas.fr/datachallenges/)
+   * The ocean data challenges: [https://ocean-data-challenges.github.io](https://ocean-data-challenges.github.io)
    * Laurent Brodeau's sofwares (Sosie, Gonzag, Climporn, Aerobulk): [https://github.com/brodeau](https://github.com/brodeau)
