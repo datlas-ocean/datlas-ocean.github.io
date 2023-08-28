@@ -12,7 +12,7 @@ breadcrumb: true
 
 ![hiring]({{ site.urlimg }}hiring-news.png)
 
-* _2023-03-20_: We have opened a research engineer position  related to a couple of collaborative projects in which Datlas is engaged, starting in 2023 (in numerical oceanography and remote-sensing ocean data inversion). [Check out and apply to the position  here](https://euraxess.ec.europa.eu/jobs/85390).
+* _2023-08-28_: We have opened a research engineer position  related to a couple of collaborative projects in which Datlas is engaged, starting in the fall of 2023 (in numerical oceanography and remote-sensing ocean data inversion). [Check out and apply to the position  here](https://www.datlas.fr/datlas/HIRING/).
 
 ---
 
