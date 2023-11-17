@@ -13,8 +13,9 @@ image:
    thumb: 202311_OSTST_meeting.png
 show_meta: true
 ---
+The meeting was held in Porto Rico, Nov. 7-11.
 
-Clément presented  an overviwe of the SWOT capability over ocean after the lauch of the satellite in December 2022.
+Clément presented  an overview of the SWOT capability over ocean after the lauch of the satellite in December 2022.
 
 Title: _From low resolution gridded altimetry maps to fine scales in KaRIn images._
 
