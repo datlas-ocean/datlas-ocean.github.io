@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/</id>
 	<title></title>
-	<updated>2023-03-23T08:24:47+01:00</updated>
+	<updated>2024-12-02T14:00:05+01:00</updated>
 
 	<subtitle>Datlas was created in 2021 by a team of scientists experts in numerical modeling and numerical methods in Earth and Environmental sciences.</subtitle>
 
@@ -22,8 +22,303 @@
 	<link href="http://localhost:4000/atom.xml" rel="self" type="application/rss+xml" />
 	<link href="http://localhost:4000/" rel="alternate" type="text/html" />
 
-	<generator uri="http://jekyllrb.com" version="4.3.1">Jekyll</generator>
+	<generator uri="http://jekyllrb.com" version="4.3.2">Jekyll</generator>
 
+	
+		<entry>
+			<id>http://localhost:4000/datlas/science/recruits/Datlas-recruits/</id>
+			<title>3 new recruits at Datlas !</title>
+			<link href="http://localhost:4000/datlas/science/recruits/Datlas-recruits/" rel="alternate" type="text/html" title="3 new recruits at Datlas !" />
+			<updated>2024-11-18T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>datlas</name>
+					
+					
+					
+				</author>
+			
+			<summary>Autumn 2024 sees the arrival of new blood at Datlas.</summary>
+			<content type="html" xml:base="http://localhost:4000/datlas/science/recruits/Datlas-recruits/">&lt;p&gt;We are delighted to welcome three new team members, each bringing their expertise to the forefront of geoscientific research in Datlas.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Laurine Fiol&lt;/strong&gt; joins us as an engineer dedicated to the CMEMS Service Evolution project &lt;strong&gt;ARTIC-BLISS&lt;/strong&gt;. Laurine’s work will focus on enhancing sea ice forecasting through atmospheric boundary layer (ABL) coupling. Her contributions will push the boundaries of predictive modeling, enabling more accurate and reliable insights into Arctic conditions—a critical endeavor as we navigate a warming climate.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Florian Le Guillou&lt;/strong&gt;, our new fellow research scientist, will spearhead research on ocean surface data processing and sensor synergy. Florian’s expertise promises to bridge gaps between diverse data sources, ensuring that we extract maximum value from advanced observation technologies. His work will play a pivotal role in improving ocean surface dynamic reconstructions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Antoine Blondel&lt;/strong&gt; comes aboard as an engineer to contribute to the &lt;strong&gt;CNES Odysea project&lt;/strong&gt;. Antoine will focus on refining the calibration of the upcoming surface current Odysea satellite mission. This project is crucial for advancing the precision of ocean current observations, which are foundational to monitoring climate change and enhancing maritime operations.&lt;/p&gt;
+
+&lt;p&gt;We’re thrilled to have Laurine, Florian, and Antoine join the Datlas team. Their expertise will strengthen our projects and help drive progress in geoscientific research and services.&lt;/p&gt;
+
+&lt;p&gt;Welcome aboard, Laurine, Florian, and Antoine —- we’re looking forward to working together!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/datlas_logo_texte.png&quot; alt=&quot;datlas2023&quot; /&gt;&lt;/p&gt;
+
+</content>
+
+			
+				<category term="datlas" />
+			
+				<category term="science" />
+			
+				<category term="recruits" />
+			
+			
+
+			<published>2024-11-18T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/datlas/science/conference/OSTST-clement/</id>
+			<title>Clément at the Ocean Surface Topography (OSTST) meeting</title>
+			<link href="http://localhost:4000/datlas/science/conference/OSTST-clement/" rel="alternate" type="text/html" title="Clément at the Ocean Surface Topography (OSTST) meeting" />
+			<updated>2023-11-11T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>datlas</name>
+					
+					
+					
+				</author>
+			
+			<summary>in Porto Rico, Nov. 7-11.</summary>
+			<content type="html" xml:base="http://localhost:4000/datlas/science/conference/OSTST-clement/">&lt;p&gt;The meeting was held in Porto Rico, Nov. 7-11.&lt;/p&gt;
+
+&lt;p&gt;Clément presented  an overview of the SWOT capability over ocean after the lauch of the satellite in December 2022.&lt;/p&gt;
+
+&lt;p&gt;Title: &lt;em&gt;From low resolution gridded altimetry maps to fine scales in KaRIn images.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Authors:  Clement Ubelmann (Datlas, France), Antoine Delepoulle (CLS, France); Anaelle Treboutte (CLS, France); Yannice Faugere (CLS, France); Gerald Dibarboure (CNES, France)&lt;/p&gt;
+
+&lt;p&gt;Abstract:
+While nadir altimetry is limited today to 40km (Pujol et al, 2022), the resolution of multimission gridded 2D maps available today (for ex in the Marine Copernicus Service) is still lower, more than 150km, depending of the latitude (Ballarotta, 2019). Launched on December 2022, the SWOT satellite offered us early 2023, after advanced post processing, some first images revealing signals at scales never reached before. This presentation will give a first overview of SWOT capability over ocean, and describe a processing algorithm based on the global constellation of Altimeters to calibrate medium and large scales, specific denoising for short scales, and standards (MSS, tide model) necessary to reach such resolution.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/202311_OSTST_meeting.png&quot; alt=&quot;sasip2023&quot; /&gt;&lt;/p&gt;
+
+</content>
+
+			
+				<category term="datlas" />
+			
+				<category term="science" />
+			
+				<category term="conference" />
+			
+			
+
+			<published>2023-11-11T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/datlas/science/conference/SWOT-meeting/</id>
+			<title>Clément and Sammy at the annual SWOT-ST meeting</title>
+			<link href="http://localhost:4000/datlas/science/conference/SWOT-meeting/" rel="alternate" type="text/html" title="Clément and Sammy at the annual SWOT-ST meeting" />
+			<updated>2023-09-22T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>datlas</name>
+					
+					
+					
+				</author>
+			
+			<summary>This was the first annual meeting since the launch of the satellite in last December (Dec. 2022)</summary>
+			<content type="html" xml:base="http://localhost:4000/datlas/science/conference/SWOT-meeting/">&lt;p&gt;The SWOT mission is led by the French space agency CNES (Centre National d’Études Spatiales) and NASA (National Aeronautics and Space Administration). 
+The satellite is able to measure and survey water on over 90% of Earth’s surface, providing a high-resolution map of our planet’s water resources for the first time ever. 
+The satellite’s measurements of freshwater and ocean masses are set to deliver new insights into the global ocean cycle impacted by climate change.&lt;/p&gt;
+
+&lt;p&gt;See a summary here: &lt;a href=&quot;https://presse.cnes.fr/en/swot-international-science-team-meeting-toulouse-reveals-very-promising-first-results&quot;&gt;https://presse.cnes.fr/en/swot-international-science-team-meeting-toulouse-reveals-very-promising-first-results&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The program of the meeting can be browsed here: &lt;a href=&quot;https://swotst.aviso.altimetry.fr/programs/2023-swot-st-program&quot;&gt;https://swotst.aviso.altimetry.fr/programs/2023-swot-st-program&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/earth20161122_800x800.jpg&quot; alt=&quot;sasip2023&quot; /&gt;&lt;/p&gt;
+
+</content>
+
+			
+				<category term="datlas" />
+			
+				<category term="science" />
+			
+				<category term="conference" />
+			
+			
+
+			<published>2023-09-22T00:00:00+02:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/datlas/HIRING/</id>
+			<title>Research engineer position in remote-sensing ocean data inversion</title>
+			<link href="http://localhost:4000/datlas/HIRING/" rel="alternate" type="text/html" title="Research engineer position in remote-sensing ocean data inversion" />
+			<updated>2023-08-28T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>datlas</name>
+					
+					
+					
+				</author>
+			
+			<summary>We are hiring !</summary>
+			<content type="html" xml:base="http://localhost:4000/datlas/HIRING/">&lt;p&gt;We have opened a research engineer position  related to a couple of collaborative projects in which Datlas is engaged, starting in the fall of 2023 (in numerical oceanography and remote-sensing ocean data inversion, see details below).&lt;/p&gt;
+
+&lt;p&gt;Contact us to apply (or &lt;a href=&quot;https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/171784645W?motsCles=Ing%C3%A9nieur%20en%20Oc%C3%A9anographie%20num%C3%A9rique%20et%20inversion%20de%20donn%C3%A9es%20spatiales&amp;amp;typesConvention=143684&amp;amp;typesConvention=143685&amp;amp;typesConvention=143686&amp;amp;typesConvention=143687&amp;amp;selectedIndex=0&amp;amp;page=0&quot;&gt;click here (in french)&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/contactdatlas.png&quot; alt=&quot;&quot; title=&quot;Contact us&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hiring-news.png&quot; alt=&quot;hiring&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;datlas&quot;&gt;Datlas:&lt;/h2&gt;
+
+&lt;p&gt;Based in Saint-Martin d’Hères (38), on the university campus, DATLAS (https://www.datlas.fr/) is a cooperative of entrepreneur-researchers and -engineers working together to take up scientific and numerical challenges in environmental and climate sciences to better address societal issues.&lt;/p&gt;
+
+&lt;p&gt;DATLAS is a private company, created as a branch  of  OXALIS, a cooperative of activity and employment that provides an economic, legal, social and human framework supporting the development of DATLAS activities.&lt;/p&gt;
+
+&lt;p&gt;The DATLAS team currently has 7 members, with expertise in numerical methods and numerical models applied to Earth data, ranging from observations to model simulations. Our on-going activities are related to spatial observations, modeling and forecasting of the ocean  and of sea ice:&lt;/p&gt;
+
+&lt;p&gt;Datlas is  involved in activities to design and process future and present space observation missions, building on high-quality and high-resolution numerical simulations of the ocean,  and on the development of  innovative numerical methods and models.
+    Datlas is also involved in activities to develop and improve numerical models of the ocean and sea ice in order to better understand existing observations and the physical processes at play, and to better forecast the physical properties that matter for operational stakeholders and end-users.&lt;/p&gt;
+
+&lt;h2 id=&quot;context-of-the-job&quot;&gt;Context of the job:&lt;/h2&gt;
+
+&lt;p&gt;Two new collaborative projects are starting in 2023, for which DATLAS is opening a position to be filled as soon as possible, in the form of a fixed-term contract for 12 months:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;The  World Ocean Circulation (WOC) project, funded by the European Space Agency (ESA) : this is an extension of a 24-month project, which aims to deliver demonstrator algorithms for surface current reconstruction,  based on available remote-sensing and in-situ observations. More specifically, the role of Datlas in this project is to estimate the inertial component of the surface current with learning methods on drifting buoy and surface wind data. An algorithm has already been prototyped over the last two years, and will need to be tested and validated on a global scale.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The ODYSEA project, funded by the French National Centre for Space Studies (CNES): This CNES/NASA mission project aims at observing surface wind at the synoptic scale, and also of ocean surface current, which constitutes one of the last fundamental variables of the ocean surface dynamics that is not directly observed from satellite to date. In this project, the role of Datlas is to explore new methods of mapping of the total current (including inertial, but also geostrophy components) on the basis of highly-resolved data (from numerical simulations) and fundamental dynamical laws.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The nature and the proposed missions are detailed below, and will be refined depending on the candidate.&lt;/p&gt;
+
+&lt;h2 id=&quot;missions-and-job-description&quot;&gt;Missions and job description:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Mission 1 :Get started with the prototyped algorithm (written in Python) for the inertial current in its North Atlantic configuration. Get started with  the datasets used (in situ and spatial data), and with the validation metrics. During this first stage, beyond the algorithmic, a critical mind on the validation of the data would be appreciated.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Mission 2 :Rescale the algorithm for a global application, which  will require a revisit of the parallelization architecture and a better optimization of the reading and processing steps of the input data&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Mission 3 : Based on the developed algorithm, produce a 10-year time series of surface currents, and perform its validation based on independent data.  Communication to the other project partners and to ESA will be required (participation in conferences with oral presentations in English).&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;requirements--skills--qualifications&quot;&gt;Requirements / Skills / Qualifications:&lt;/h2&gt;
+
+&lt;p&gt;Masters degree (of higher)  in applied mathematics and/or Earth sciences. Some experience in signal processing and scientific computing is required. Skills in Python programming with parallelization tools is recommended. An interest in geophysical fluid modeling and data inversion would be highly appreciated. Autonomy and scientific curiosity.  English written and spoken.&lt;/p&gt;
+
+&lt;h2 id=&quot;conditions-and-framework-of-the-proposed-contract&quot;&gt;Conditions and framework of the proposed contract:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The recruited person will be under the responsibility of the project manager Clément Ubelmann.&lt;/li&gt;
+  &lt;li&gt;Workplace:  Saint Martin d’Hères,  in the premises of the “Maison Climat Planète.&lt;/li&gt;
+  &lt;li&gt;Nature of the position = 1 year fixed-term contract starting as soon as possible in 2023.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="datlas" />
+			
+			
+
+			<published>2023-08-28T00:00:00+02:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/datlas/science/conference/SASIP_annualmeeting/</id>
+			<title>Stephanie at the annual meeting of the SASIP project</title>
+			<link href="http://localhost:4000/datlas/science/conference/SASIP_annualmeeting/" rel="alternate" type="text/html" title="Stephanie at the annual meeting of the SASIP project" />
+			<updated>2023-07-01T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>datlas</name>
+					
+					
+					
+				</author>
+			
+			<summary>This project aims at developing the next generation of sea ice models</summary>
+			<content type="html" xml:base="http://localhost:4000/datlas/science/conference/SASIP_annualmeeting/">&lt;p&gt;The meeting was held in Bergen, Norway (June 27-30) and gathered about 60 participants of 7 countries (France, US, New Zeland, UK, Norway, Germany, Italy) from all the institutions of the &lt;a href=&quot;https://sasip-climate.github.io/&quot;&gt;SASIP&lt;/a&gt; consortium.&lt;/p&gt;
+
+&lt;p&gt;The scientific program  can be browsed &lt;a href=&quot;https://cloud.univ-grenoble-alpes.fr/s/PSZPaNqAf5fpj83&quot;&gt;here&lt;/a&gt; and  the recording of the presentations is available on a dedicated &lt;a href=&quot;https://www.youtube.com/playlist?list=PLvzG0ke9xnX5_IQcMuSU93vZD5d5dfQ3-&quot;&gt;Sasip Climate youtube channel&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Stephanie co-animated with her colleague Aurélie Albert from IGE, France, a “Hands-on” session, based on a cloud plateform, on how to compute a simulation with the new sea ice model neXtSIM-DG being developped as part of the project.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/SASIP2023_group-photo_1000.JPG&quot; alt=&quot;sasip2023&quot; /&gt;&lt;/p&gt;
+</content>
+
+			
+				<category term="datlas" />
+			
+				<category term="science" />
+			
+				<category term="conference" />
+			
+			
+
+			<published>2023-07-01T00:00:00+02:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/datlas/science/conference/CMEMS-GA/</id>
+			<title>Sammy  at the Copernicus Marine General Assembly 2023</title>
+			<link href="http://localhost:4000/datlas/science/conference/CMEMS-GA/" rel="alternate" type="text/html" title="Sammy  at the Copernicus Marine General Assembly 2023" />
+			<updated>2023-06-06T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>datlas</name>
+					
+					
+					
+				</author>
+			
+			<summary>in Brussels, June 5-6th.</summary>
+			<content type="html" xml:base="http://localhost:4000/datlas/science/conference/CMEMS-GA/">&lt;p&gt;Sammy presented the on-going project SLICING  funded by the CMEMS-Service-Evolution program.
+SLICING stands for Sea Level Innovations and Collaborative Intercomparisons for the Next-Generation products. 
+It is a CMEMS - Service Evolution project that  builds collaborative data challenges for the next-generation sea level anomaly metrics, observation and mapping products.
+This is a collaboration between Sammy Metref and Clément Ubelmann in Datlas (lead) with Maxime Ballarotta and Clément Busché from Collecte Localisation Satellites (CLS), Ramonville St-Agne, France, and Maxime Beauchamp from IMT Atlantique Bretagne-Pays de la Loire, Brest, France.&lt;/p&gt;
+
+&lt;p&gt;Program of the CMEMS General assembly: &lt;a href=&quot;https://marine.copernicus.eu/events/copernicus-marine-general-assembly-2023-0&quot;&gt;https://marine.copernicus.eu/events/copernicus-marine-general-assembly-2023-0&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/20230310_CMEMS_GA_SaveTheDate_1200x1200.jpg&quot; alt=&quot;CMEMS2023&quot; /&gt;&lt;/p&gt;
+
+</content>
+
+			
+				<category term="datlas" />
+			
+				<category term="science" />
+			
+				<category term="conference" />
+			
+			
+
+			<published>2023-06-06T00:00:00+02:00</published>
+		</entry>
 	
 		<entry>
 			<id>http://localhost:4000/datlas/science/conference/IICWGDA11/</id>
@@ -55,7 +350,7 @@ General topics (sessions) include:&lt;/p&gt;
   &lt;li&gt;Recent research to sea ice operation transfer—Automated prediction systems&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://iicwg-da-11.met.no/&quot;&gt;Read more and find out about the full program here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://iicwg-da-11.met.no/programme&quot;&gt;Read more and find out about the full program here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/iicwg-news.png&quot; alt=&quot;iicwg&quot; /&gt;&lt;/p&gt;
 </content>
@@ -70,38 +365,6 @@ General topics (sessions) include:&lt;/p&gt;
 			
 
 			<published>2023-03-22T00:00:00+01:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/datlas/HIRING/</id>
-			<title>Research engineer position in remote-sensing ocean data inversion</title>
-			<link href="http://localhost:4000/datlas/HIRING/" rel="alternate" type="text/html" title="Research engineer position in remote-sensing ocean data inversion" />
-			<updated>2023-03-20T00:00:00+01:00</updated>
-
-			
-				
-				<author>
-					
-						<name>datlas</name>
-					
-					
-					
-				</author>
-			
-			<summary>We are hiring !</summary>
-			<content type="html" xml:base="http://localhost:4000/datlas/HIRING/">&lt;p&gt;We have opened a research engineer position  related to a couple of collaborative projects in which Datlas is engaged, starting in 2023 (in numerical oceanography and remote-sensing ocean data inversion).&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://euraxess.ec.europa.eu/jobs/85390&quot;&gt;Check out and apply to the position  here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/hiring-news.png&quot; alt=&quot;hiring&quot; /&gt;&lt;/p&gt;
-</content>
-
-			
-				<category term="datlas" />
-			
-			
-
-			<published>2023-03-20T00:00:00+01:00</published>
 		</entry>
 	
 		<entry>
@@ -200,173 +463,6 @@ General topics (sessions) include:&lt;/p&gt;
 			
 
 			<published>2022-10-12T00:00:00+02:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/datlas/people/sammy/</id>
-			<title>Sammy joins Datlas!</title>
-			<link href="http://localhost:4000/datlas/people/sammy/" rel="alternate" type="text/html" title="Sammy joins Datlas!" />
-			<updated>2022-07-28T00:00:00+02:00</updated>
-
-			
-				
-				<author>
-					
-						<name>datlas</name>
-					
-					
-					
-				</author>
-			
-			<summary>Sammy Metref will join us in Datlas next week (Aug. 1st). Welcome to him! </summary>
-			<content type="html" xml:base="http://localhost:4000/datlas/people/sammy/">&lt;p&gt;Sammy will bring to Datlas is expertise  in data assimilation, inversion methods and the setting up of data challenges. 
-&lt;a href=&quot;http://localhost:4000/team/SM/&quot;&gt;&lt;img src=&quot;/images/team-SM.png&quot; alt=&quot;SM&quot; title=&quot;Find out more about Sammy.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-</content>
-
-			
-				<category term="datlas" />
-			
-				<category term="People" />
-			
-			
-
-			<published>2022-07-28T00:00:00+02:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/datlas/web/com'/semaphore/</id>
-			<title>Starting a collaboration with Semaphore</title>
-			<link href="http://localhost:4000/datlas/web/com'/semaphore/" rel="alternate" type="text/html" title="Starting a collaboration with Semaphore" />
-			<updated>2022-07-22T00:00:00+02:00</updated>
-
-			
-				
-				<author>
-					
-						<name>datlas</name>
-					
-					
-					
-				</author>
-			
-			<summary>We have just started a collaboration with the Semaphore team, to help us find a nice logo and visual identity for Datlas.</summary>
-			<content type="html" xml:base="http://localhost:4000/datlas/web/com'/semaphore/">&lt;p&gt;&lt;a href=&quot;http://semaphore-communication.fr/semaphore/&quot;&gt;&lt;img src=&quot;/images/logo_semaphore.png&quot; alt=&quot;semaphore&quot; title=&quot;There website here.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-</content>
-
-			
-				<category term="Datlas" />
-			
-				<category term="Web" />
-			
-				<category term="Com&apos;" />
-			
-			
-
-			<published>2022-07-22T00:00:00+02:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/datlas/science/kickoffCMEMS/</id>
-			<title>SLICING: a new Service Evolution CMEMS project.</title>
-			<link href="http://localhost:4000/datlas/science/kickoffCMEMS/" rel="alternate" type="text/html" title="SLICING: a new Service Evolution CMEMS project." />
-			<updated>2022-07-07T00:00:00+02:00</updated>
-
-			
-				
-				<author>
-					
-						<name>datlas</name>
-					
-					
-					
-				</author>
-			
-			<summary>Sammy and Clément have organised the kickoff meeting of SLICING (CMEMS Service Evolution) on Jul 7th, 2022.  </summary>
-			<content type="html" xml:base="http://localhost:4000/datlas/science/kickoffCMEMS/">&lt;p&gt;SLICING  stands for Sea Level Innovations and Collaborative Intercomparisons for the Next-Generation products. It is a CMEMS - Service Evolution project that will  build collaborative data challenges for the next-generation sea level anomaly metrics, observation and mapping products.&lt;/p&gt;
-
-&lt;p&gt;This is a starting collaboration between Sammy Metref and Clément Ubelmann in Datlas (lead) with Maxime Ballarotta and Clément Busché from Collecte Localisation Satellites (CLS), Ramonville St-Agne, France, and  Maxime Beauchamp from IMT Atlantique Bretagne-Pays de la Loire, Brest, France.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/logos_SLICING.png&quot; alt=&quot;SLICING_partners&quot; /&gt;&lt;/p&gt;
-</content>
-
-			
-				<category term="datlas" />
-			
-				<category term="science" />
-			
-			
-
-			<published>2022-07-07T00:00:00+02:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/datlas/people/joseph/</id>
-			<title>Welcome to Joseph, PhD student</title>
-			<link href="http://localhost:4000/datlas/people/joseph/" rel="alternate" type="text/html" title="Welcome to Joseph, PhD student" />
-			<updated>2022-07-01T00:00:00+02:00</updated>
-
-			
-				
-				<author>
-					
-						<name>datlas</name>
-					
-					
-					
-				</author>
-			
-			<summary>Datlas is now in a partnership with the MIO and LIS research institues and  University of Toulon, France to host Joseph Jenkins&apos;s PhD (CIFRE grant) on surface ocean currents and the prediction of Lagrangian drift by deep learning. </summary>
-			<content type="html" xml:base="http://localhost:4000/datlas/people/joseph/">&lt;p&gt;&lt;a href=&quot;http://localhost:4000/team/JJ/&quot;&gt;&lt;img src=&quot;/images/avatarman2.jpg&quot; alt=&quot;JJ&quot; title=&quot;Find out more about Joseph&apos;s PhD&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Joseph’s PhD aims to investigate the use of machine learning for estimating the expected trajectories of floating objects at sea. Precise estimations of trajectories is important for applications such as search as rescue, but the achievable precision is currently limited by the precision of modelled surface currents. His work aims to overcome this limitation by leveraging the recent advancements of deep neural networks applied to structured data, for example by exploiting relevant information in ancillary data such as sea surface height and temperature.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/logo_theseJJ.png&quot; alt=&quot;CIFRE_funding&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Joseph’s PhD is funded by a CIFRE grant, as a collaboration between the MIO and LIS institutes at the University of Toulon, France, and Datlas/Oxalis in Grenoble.
-He is co-directed in his work by Dr Yann Ourmières, MIO (Mediterranean Institute of Oceanography, UMR CNRS), Dr Adeline Paiement,  Pr. Hervé Glotin, LIS (Laboratoire d’Informatique &amp;amp; des Systèmes,  UMR CNRS), in collaboration with Clément Ubelmann, as his scientific and industrial advisor from Datlas, Grenoble.&lt;/em&gt;&lt;/p&gt;
-</content>
-
-			
-				<category term="datlas" />
-			
-				<category term="People" />
-			
-			
-
-			<published>2022-07-01T00:00:00+02:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/datlas/web/sasip-am/</id>
-			<title>The 2022 SASIP annual meeting took place in Grenoble</title>
-			<link href="http://localhost:4000/datlas/web/sasip-am/" rel="alternate" type="text/html" title="The 2022 SASIP annual meeting took place in Grenoble" />
-			<updated>2022-06-25T00:00:00+02:00</updated>
-
-			
-				
-				<author>
-					
-						<name>datlas</name>
-					
-					
-					
-				</author>
-			
-			<summary>Stephanie and Laurent  have participated  in the annual meeting of project SASIP, taking place in Grenoble, 20-23 June 2022.</summary>
-			<content type="html" xml:base="http://localhost:4000/datlas/web/sasip-am/">&lt;p&gt;3 days of inspiring science talks and discussions about sea ice modeling with 55 participants of 7 countries (France, US, New Zeland, UK, Norway, Germany, Canada) from the 13 institutions  of the SASIP consortium.&lt;/p&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;https://sasip-climate.github.io&quot;&gt;SASIP website&lt;/a&gt;.
-&lt;a href=&quot;https://sasip-climate.github.io&quot;&gt;&lt;img src=&quot;/images/SASIP_AM2022.jpeg&quot; alt=&quot;sasip-web&quot; title=&quot;Check out the SASIP website.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-</content>
-
-			
-				<category term="datlas" />
-			
-				<category term="Web" />
-			
-			
-
-			<published>2022-06-25T00:00:00+02:00</published>
 		</entry>
 	
 </feed>

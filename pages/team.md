@@ -28,30 +28,46 @@ widget3:
   text: 'R&D scientist: Expertise in data assimilation, inversion methods and data challenges [...].'
 
 widget4:
-  title: "Laurent Brodeau"
-  url: /team/LB/
-  image: team-LB.jpg
-  text: 'R&D scientist: Expertise in HPC computing and ocean & sea ice modelling [...].'
+  title: "Florian  Leguillou"
+  url: /team/FL/
+  image: team-FL.jpg
+  text: 'R&D scientist: Expertise in data inversion methods for ocean altimetry [...]'
 
 widget5:
   title: "Christine André "
   url: /team/CA/
   image: team-CA.png
   text: 'Legal & financial officer [...]'
-
+  
 widget6:
+  title: "Laurine  Fiol"
+  url: /team/LF/
+  image: team-LF.png
+  text: 'Research engineer: Expertise in  [...]'
+  
+widget7:
+  title: "Antoine  Blondel"
+  url: /team/AB/
+  image: team-AB.jpg
+  text: 'Research engineer: Expertise in Earth Observation and Geospatial data [...]'
+  
+  
+  
+  
+  
+ 
+
+widget10:
   title: "Joseph  Jenkins"
   url: /team/JJ/
   image: team-JJ.jpg
   text: 'PhD student (CIFRE funding): Prediction of Lagrangian drift by deep learning [...]'
-
-
-
-widget10:
-  title: "Florian  Leguillou"
-  url: /team/FL/
-  image: avatar-homme.png
-  text: '[Former Post-doc]: Expertise in data inversion methods for ocean altimetry [...]'
+  
+widget11:
+  title: "Laurent Brodeau"
+  url: /team/LB/
+  image: team-LB.jpg
+  text: 'R&D scientist: Expertise in HPC computing and ocean & sea ice modelling [...].'
 
 
 
