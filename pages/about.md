@@ -9,10 +9,13 @@ header:
    image_fullwidth: "gs_w.jpg"
 breadcrumb: true
 ---
+ 
 
 ## <center> Datlas in short </center>
  <center> - </center>
 ![in short]({{ site.urlimg }}about-us-in-short.png "in short")
+
+<br>
 
 ## <center> Our ambition </center>
  <center> - </center>
@@ -30,7 +33,12 @@ Building on the various science backgrounds and technical skills in the team, we
 Read more [here]({{ site.url }}{{ site.baseurl }}/expertise/) about the different science projects we are involved in.
 
 
+<br>
+
 ---
+
+<br>
+
 ## <center> Our values</center>
 <center>-</center>
 
@@ -44,9 +52,12 @@ Read more [here]({{ site.url }}{{ site.baseurl }}/expertise/) about the differen
  
  Oxalis has seen a growth in its R&D activities for several years and has been granted CIR approval since 2016. Oxalis hosts specialized R&D services in the fields of human and social sciences, economics and management, legal and political sciences, as well as in computer science, oceanography and archaeology. The "Research Innovation Development" office within Oxalis aims  to stimulate new research dynamics, to centralize and coordinate the management of projects and to facilitate the dissemination and transfer of results.
 
-
+<br>
 
 ---
+
+<br>
+
 ## <center> Some of our funding agencies and partners:</center>
 <center> - </center>
 

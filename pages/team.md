@@ -13,37 +13,37 @@ widget1:
   title: "Clément Ubelmann"
   url: /team/CU/
   image: team-CU.png
-  text: 'R&D scientist: Expertise in data inversion methods for ocean altimetry, and data assimilation. [...]' 
+  text: 'R&D scientist: Expertise in data inversion methods for ocean altimetry, and data assimilation [...]' 
  
 widget2:
   title: "Stephanie Leroux"
   url: /team/SL/
   image: team-SL.jpg
-  text: 'R&D scientist:  Expertise in ocean, atmosphere and sea ice modelling, data analysis and probabilistic approaches. [...]'
+  text: 'R&D scientist:  Expertise in ocean, atmosphere and sea ice modelling, data analysis and probabilistic approaches [...]'
 
 widget3:
   title: "Sammy Metref"
   url: /team/SM/
   image: team-SM.png
-  text: 'R&D scientist: Expertise in data assimilation, inversion methods and data challenges [...].'
+  text: 'R&D scientist: Expertise in data assimilation, inversion methods and data challenges [...]'
 
 widget4:
   title: "Florian  Leguillou"
   url: /team/FL/
   image: team-FL.jpg
-  text: 'R&D scientist: Expertise in data inversion methods for ocean altimetry [...]'
+  text: 'R&D scientist: Expertise in data inversion methods for ocean altimetry and velocity currents [...]'
 
 widget5:
   title: "Christine André "
   url: /team/CA/
   image: team-CA.png
-  text: 'Legal & financial officer [...]'
+  text: 'Legal, administrative & financial manager [...]'
   
 widget6:
   title: "Laurine  Fiol"
   url: /team/LF/
   image: team-LF.png
-  text: 'Research engineer: Expertise in  [...]'
+  text: 'Research engineer: Expertise in sea ice and atmosphere interaction modelling [...]'
   
 widget7:
   title: "Antoine  Blondel"

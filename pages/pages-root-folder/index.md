@@ -12,7 +12,7 @@ widget1:
   title: "About datlas"
   url: /about/
   image: outils-collaboratifs-gestion-de-projet_sq.png
-  text: 'datlas was created in 2021 in the aim to develop Research & Innovation opportunities and cooperations at the interface between academic research  and operational stakeolders in the domains of Earth & Environnmental sciences. [...]'
+  text: 'Datlas was created in 2021 in the aim to develop Research & Innovation opportunities and cooperations at the interface between academic research and operational stakeolders in the domains of Earth & Environnmental sciences. [...]'
 widget2:
   title: "Our team"
   url: /team/
