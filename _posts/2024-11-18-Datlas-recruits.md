@@ -10,7 +10,7 @@ categories:
 header:
    image_fullwidth: "gs_w.jpg"
 image:
-   thumb: datlas_logo_texte.png
+   thumb: datlas_new_recruits.jpg
 show_meta: true
 --- 
 
@@ -30,5 +30,5 @@ Welcome aboard, Laurine, Florian, and Antoine —- we’re looking forward to wo
 
 
 
-![datlas2023]({{ site.urlimg }}datlas_logo_texte.png)
+![datlas2023]({{ site.urlimg }}datlas_new_recruits.jpg)
 

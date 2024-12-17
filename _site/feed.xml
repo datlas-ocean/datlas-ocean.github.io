@@ -9,6 +9,22 @@
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Datlas Christmas Dinner</title>
+				<link>http://localhost:4000/datlas/extraprofessional/meom/Datlas-XmasDinner/</link>
+				<pubDate>Tue, 17 Dec 2024 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;On Monday, December 16th, the Datlas team came together for a festive Christmas dinner at the restaurant &lt;strong&gt;La belle idée&lt;/strong&gt;, located in downtown Grenoble. This special occasion coincided with the visit of Christine, our administrative and legal manager, who joined us for a day of productive and engaging meetings.&lt;/p&gt;
+
+&lt;p&gt;Organized by Clément (Senior Scientist), the dinner brought together all Datlas members, including our recent arrivals, as well as colleagues from the MEOM team at IGE. The event provided a wonderful opportunity for informal discussions in a relaxed and cheerful atmosphere, strengthening human bonds among collegues.&lt;/p&gt;
+
+&lt;p&gt;A big thank you to Clément for organizing this delightful gathering and to everyone who attended for making it such a memorable and enjoyable occasion. This dinner was a perfect way to end the year with a spirit of teamwork and camaraderie.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/datlas_xmas_dinner.jpg&quot; alt=&quot;datlas2023&quot; /&gt;&lt;/p&gt;
+
+</description>
+				<guid isPermaLink="true">http://localhost:4000/datlas/extraprofessional/meom/Datlas-XmasDinner/</guid>
+			</item>
+		
+			<item>
 				<title>3 new recruits at Datlas !</title>
 				<link>http://localhost:4000/datlas/science/recruits/Datlas-recruits/</link>
 				<pubDate>Mon, 18 Nov 2024 00:00:00 +0100</pubDate>
@@ -24,7 +40,7 @@
 
 &lt;p&gt;Welcome aboard, Laurine, Florian, and Antoine —- we’re looking forward to working together!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/datlas_logo_texte.png&quot; alt=&quot;datlas2023&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/datlas_new_recruits.jpg&quot; alt=&quot;datlas2023&quot; /&gt;&lt;/p&gt;
 
 </description>
 				<guid isPermaLink="true">http://localhost:4000/datlas/science/recruits/Datlas-recruits/</guid>
@@ -210,18 +226,6 @@ General topics (sessions) include:&lt;/p&gt;
 				<description>
 </description>
 				<guid isPermaLink="true">http://localhost:4000/datlas/conference/communication/nersc/</guid>
-			</item>
-		
-			<item>
-				<title>ESA WOC user meeting</title>
-				<link>http://localhost:4000/datlas/conference/communication/WOC-meeting/</link>
-				<pubDate>Wed, 12 Oct 2022 00:00:00 +0200</pubDate>
-				<description>&lt;p&gt;&lt;a href=&quot;https://woc2022.esa.int/&quot;&gt;&lt;img src=&quot;/images/ESA-WOC_2022.png&quot; alt=&quot;ESA-WOC&quot; title=&quot;Find out more about the ESA funded WOC project&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Background and context about the ESA-funded  World Ocean Circulation project and the program of this “user meeting”c can be found here: &lt;a href=&quot;https://woc2022.esa.int/&quot;&gt;https://woc2022.esa.int/&lt;/a&gt;. The slides and recording  of the presentations given at this meeting will be available soon (nov. 2022).&lt;/p&gt;
-
-</description>
-				<guid isPermaLink="true">http://localhost:4000/datlas/conference/communication/WOC-meeting/</guid>
 			</item>
 		
 	</channel>

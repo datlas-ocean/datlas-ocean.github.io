@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/</id>
 	<title></title>
-	<updated>2024-12-02T14:36:57+01:00</updated>
+	<updated>2024-12-17T09:47:15+01:00</updated>
 
 	<subtitle>Datlas was created in 2021 by a team of scientists experts in numerical modeling and numerical methods in Earth and Environmental sciences.</subtitle>
 
@@ -24,6 +24,45 @@
 
 	<generator uri="http://jekyllrb.com" version="4.3.2">Jekyll</generator>
 
+	
+		<entry>
+			<id>http://localhost:4000/datlas/extraprofessional/meom/Datlas-XmasDinner/</id>
+			<title>Datlas Christmas Dinner</title>
+			<link href="http://localhost:4000/datlas/extraprofessional/meom/Datlas-XmasDinner/" rel="alternate" type="text/html" title="Datlas Christmas Dinner" />
+			<updated>2024-12-17T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>datlas</name>
+					
+					
+					
+				</author>
+			
+			<summary>A warm gathering for the end of the calendar year.</summary>
+			<content type="html" xml:base="http://localhost:4000/datlas/extraprofessional/meom/Datlas-XmasDinner/">&lt;p&gt;On Monday, December 16th, the Datlas team came together for a festive Christmas dinner at the restaurant &lt;strong&gt;La belle idée&lt;/strong&gt;, located in downtown Grenoble. This special occasion coincided with the visit of Christine, our administrative and legal manager, who joined us for a day of productive and engaging meetings.&lt;/p&gt;
+
+&lt;p&gt;Organized by Clément (Senior Scientist), the dinner brought together all Datlas members, including our recent arrivals, as well as colleagues from the MEOM team at IGE. The event provided a wonderful opportunity for informal discussions in a relaxed and cheerful atmosphere, strengthening human bonds among collegues.&lt;/p&gt;
+
+&lt;p&gt;A big thank you to Clément for organizing this delightful gathering and to everyone who attended for making it such a memorable and enjoyable occasion. This dinner was a perfect way to end the year with a spirit of teamwork and camaraderie.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/datlas_xmas_dinner.jpg&quot; alt=&quot;datlas2023&quot; /&gt;&lt;/p&gt;
+
+</content>
+
+			
+				<category term="datlas" />
+			
+				<category term="extraprofessional" />
+			
+				<category term="MEOM" />
+			
+			
+
+			<published>2024-12-17T00:00:00+01:00</published>
+		</entry>
 	
 		<entry>
 			<id>http://localhost:4000/datlas/science/recruits/Datlas-recruits/</id>
@@ -54,7 +93,7 @@
 
 &lt;p&gt;Welcome aboard, Laurine, Florian, and Antoine —- we’re looking forward to working together!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/datlas_logo_texte.png&quot; alt=&quot;datlas2023&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/datlas_new_recruits.jpg&quot; alt=&quot;datlas2023&quot; /&gt;&lt;/p&gt;
 
 </content>
 
@@ -428,41 +467,6 @@ General topics (sessions) include:&lt;/p&gt;
 			
 
 			<published>2022-11-27T00:00:00+01:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/datlas/conference/communication/WOC-meeting/</id>
-			<title>ESA WOC user meeting</title>
-			<link href="http://localhost:4000/datlas/conference/communication/WOC-meeting/" rel="alternate" type="text/html" title="ESA WOC user meeting" />
-			<updated>2022-10-12T00:00:00+02:00</updated>
-
-			
-				
-				<author>
-					
-						<name>datlas</name>
-					
-					
-					
-				</author>
-			
-			<summary>Clément, Sammy and Stephanie from Datlas have attended the WOC (World Ocean Circulation) user meeting organized by ESA in Frascati (Rome) Italy, 10-12 Oct. 2022. </summary>
-			<content type="html" xml:base="http://localhost:4000/datlas/conference/communication/WOC-meeting/">&lt;p&gt;&lt;a href=&quot;https://woc2022.esa.int/&quot;&gt;&lt;img src=&quot;/images/ESA-WOC_2022.png&quot; alt=&quot;ESA-WOC&quot; title=&quot;Find out more about the ESA funded WOC project&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Background and context about the ESA-funded  World Ocean Circulation project and the program of this “user meeting”c can be found here: &lt;a href=&quot;https://woc2022.esa.int/&quot;&gt;https://woc2022.esa.int/&lt;/a&gt;. The slides and recording  of the presentations given at this meeting will be available soon (nov. 2022).&lt;/p&gt;
-
-</content>
-
-			
-				<category term="datlas" />
-			
-				<category term="conference" />
-			
-				<category term="communication" />
-			
-			
-
-			<published>2022-10-12T00:00:00+02:00</published>
 		</entry>
 	
 </feed>
