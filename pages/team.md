@@ -40,7 +40,7 @@ widget5:
   text: 'Legal, administrative & financial manager [...]'
   
 widget6:
-  title: "Laurine  Fiol"
+  title: "Lohenn Fiol"
   url: /team/LF/
   image: team-LF.png
   text: 'Research engineer: Expertise in sea ice and atmosphere interaction modelling [...]'
