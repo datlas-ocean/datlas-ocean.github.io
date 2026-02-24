@@ -40,12 +40,6 @@ widget5:
   text: 'Legal, administrative & financial manager [...]'
   
 widget6:
-  title: "Lohenn Fiol"
-  url: /team/LF/
-  image: team-LF.png
-  text: 'Research engineer: Expertise in sea ice and atmosphere interaction modelling [...]'
-  
-widget7:
   title: "Antoine  Blondel"
   url: /team/AB/
   image: team-AB.jpg
@@ -56,18 +50,24 @@ widget7:
   
   
  
-
 widget10:
-  title: "Joseph  Jenkins"
-  url: /team/JJ/
-  image: team-JJ.jpg
-  text: 'PhD student (CIFRE funding): Prediction of Lagrangian drift by deep learning [...]'
-  
+  title: "Lohenn Fiol"
+  url: /team/LF/
+  image: team-LF.png
+  text: 'Research engineer: Expertise in sea ice and atmosphere interaction modelling [...]'
+
 widget11:
   title: "Laurent Brodeau"
   url: /team/LB/
   image: team-LB.jpg
   text: 'R&D scientist: Expertise in HPC computing and ocean & sea ice modelling [...].'
+
+widget12:
+  title: "Joseph  Jenkins"
+  url: /team/JJ/
+  image: team-JJ.jpg
+  text: 'PhD student (CIFRE funding): Prediction of Lagrangian drift by deep learning [...]'
+  
 
 
 
