@@ -44,6 +44,12 @@ widget6:
   url: /team/AB/
   image: team-AB.jpg
   text: 'Research engineer: Expertise in Earth Observation and Geospatial data [...]'
+
+widget7:
+  title: "Antoine  Delepoulle"
+  url: /team/AB/
+  image: team-AD.jpg
+  text: 'Research engineer: Expertise in Earth Observation and Geospatial data [...]'
   
   
   
