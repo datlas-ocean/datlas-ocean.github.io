@@ -50,11 +50,15 @@ widget7:
   url: /team/AB/
   image: team-AD.jpg
   text: 'Research engineer: Expertise in Earth Observation and Geospatial data [...]'
+
+widget8:
+  title: "Valentin  Bellemin-Laponnaz"
+  url: /team/VB/
+  image: team-VB.png
+  text: 'Research engineer: Expertise in data inversion methods for ocean altimetry [...]'
   
   
-  
-  
-  
+
  
 widget10:
   title: "Lohenn Fiol"
