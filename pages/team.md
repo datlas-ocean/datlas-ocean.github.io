@@ -38,27 +38,18 @@ widget5:
   url: /team/CA/
   image: team-CA.png
   text: 'Legal, administrative & financial manager [...]'
-  
-widget6:
-  title: "Antoine  Blondel"
-  url: /team/AB/
-  image: team-AB.jpg
-  text: 'Research engineer: Expertise in Earth Observation and Geospatial data [...]'
 
-widget7:
+widget6:
   title: "Antoine  Delepoulle"
   url: /team/AB/
   image: team-AD.jpg
   text: 'Research engineer: Expertise in Earth Observation and Geospatial data [...]'
 
-widget8:
-  title: "Valentin  Bellemin-Laponnaz"
-  url: /team/VB/
-  image: team-VB.png
-  text: 'Research engineer: Expertise in data inversion methods for ocean altimetry [...]'
-  
-  
-
+widget7:
+  title: "Antoine  Blondel"
+  url: /team/AB/
+  image: team-AB.jpg
+  text: 'Research engineer: Expertise in Earth Observation and Geospatial data [...]'
  
 widget10:
   title: "Lohenn Fiol"
@@ -77,6 +68,12 @@ widget12:
   url: /team/JJ/
   image: team-JJ.jpg
   text: 'PhD student (CIFRE funding): Prediction of Lagrangian drift by deep learning [...]'
+
+widget13:
+  title: "Valentin  Bellemin-Laponnaz"
+  url: /team/VB/
+  image: team-VB.png
+  text: 'Research engineer: Expertise in data inversion methods for ocean altimetry [...]'
   
 
 
