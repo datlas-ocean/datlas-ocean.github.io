@@ -54,7 +54,7 @@ widget7:
 widget8:
   title: "Nora  Mergui"
   url: /team/NM/
-  image: avatar_femme.jpg
+  image: avatar_femme.png
   text: 'PhD student (CIFRE funding): Variational methods for estimating subsurface ocean dynamics from satellite surface observations. [...]'
 
 widget9:
