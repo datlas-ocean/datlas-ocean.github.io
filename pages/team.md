@@ -60,7 +60,7 @@ widget8:
 widget9:
   title: "Cyril Palerme"
   url: /team/CP/
-  image: team-CP.jpg
+  image: team-CP.png
   text: 'R&D scientist (joining us in Jan. 2027): AI  for Arctic sea ice forecasting and  remote sensing of the cryosphere.[...]'
  
 widget10:
