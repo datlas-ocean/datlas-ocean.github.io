@@ -58,7 +58,7 @@ widget8:
   text: 'PhD student (CIFRE funding): Variational methods for estimating subsurface ocean dynamics from satellite surface observations. [...]'
 
 widget9:
-  title: "Cyril Palerme
+  title: "Cyril Palerme"
   url: /team/CP/
   image: team-CP.jpg
   text: 'R&D scientist (joining us in Jan. 2027): AI  for Arctic sea ice forecasting and  remote sensing of the cryosphere.[...]'
