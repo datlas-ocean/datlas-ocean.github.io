@@ -50,6 +50,18 @@ widget7:
   url: /team/AB/
   image: team-AB.jpg
   text: 'Research engineer: Expertise in Earth Observation and Geospatial data [...]'
+
+widget8:
+  title: "Nora  Mergui"
+  url: /team/NM/
+  image: avatar_femme.jpg
+  text: 'PhD student (CIFRE funding): Variational methods for estimating subsurface ocean dynamics from satellite surface observations. [...]'
+
+widget9:
+  title: "Cyril Palerme
+  url: /team/CP/
+  image: team-CP.jpg
+  text: 'R&D scientist (joining us in Jan. 2027): AI  for Arctic sea ice forecasting and  remote sensing of the cryosphere.[...]'
  
 widget10:
   title: "Lohenn Fiol"
